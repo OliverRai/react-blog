@@ -3,7 +3,7 @@ import 'firebase/database';
 import 'firebase/auth';
 import 'firebase/storage';
 
-    //Configurações do seu projeto
+
     let firebaseConfig = {
         apiKey: "AIzaSyBwftAFPD8XYU4sVXDyAItVYY2vXrlnUJ4",
         authDomain: "react-app-e5278.firebaseapp.com",

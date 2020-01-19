@@ -51,7 +51,7 @@ class Register extends Component{
           onChange={(e)=> this.setState({email: e.target.value})} placeholder="teste@teste.com" /><br/>
 
           <label>Senha:</label><br/>
-          <input type="text" value={this.state.password} autoComplete="off"
+          <input type="password" value={this.state.password} autoComplete="off"
           onChange={(e)=> this.setState({password: e.target.value})} placeholder="123123"/><br/>
 
           <button type="submit">Cadastrar</button>
