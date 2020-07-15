@@ -1,3 +1,6 @@
+Projeto de um blog utilizando React.js e o banco de dados Firebase do google. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
